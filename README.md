@@ -1,19 +1,19 @@
 # @guieen/tiny
 
-[![npm (scoped)](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://github.com/GUIEEN/test)
+[![npm (scoped)](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/@guieen/tiny)
 
 Removes all spaces from a string.
 
 ## Install
 
 ```
-$ npm install @bamblehorse/tiny
+$ npm install @guieen/tiny
 ```
 
 ## Usage
 
 ```js
-const tiny = require('@bamblehorse/tiny')
+const tiny = require('@guieen/tiny')
 
 tiny('So much space!')
 //=> "Somuchspace!"

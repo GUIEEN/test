@@ -3,7 +3,7 @@
   "version": "4.0.0",
   "description": "Test npm module",
   "license": "MIT",
-  "repository": "guieenoutis/tiny",
+  "repository": "guieen/tiny",
   "main": "index.js",
   "keywords": [
     "tiny",
